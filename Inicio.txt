@@ -1,0 +1,1 @@
+Linus Torvalds es el creador de Git y el kernel de Linux.
